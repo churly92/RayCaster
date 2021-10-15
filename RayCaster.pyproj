@@ -25,6 +25,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="map.txt" />
+    <Content Include="map2.txt" />
+    <Content Include="wall1.png" />
+    <Content Include="wall2.png" />
+    <Content Include="wall3.png" />
+    <Content Include="wall4.png" />
+    <Content Include="wall5.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
