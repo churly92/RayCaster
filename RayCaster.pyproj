@@ -26,6 +26,10 @@
   <ItemGroup>
     <Content Include="map.txt" />
     <Content Include="map2.txt" />
+    <Content Include="sprite1.png" />
+    <Content Include="sprite2.png" />
+    <Content Include="sprite3.png" />
+    <Content Include="sprite4.png" />
     <Content Include="wall1.png" />
     <Content Include="wall2.png" />
     <Content Include="wall3.png" />
